@@ -1,5 +1,5 @@
 Package: gooddays
-Title: Use Helper Functions For Common Tasks
+Title: Helper Functions For Common Tasks
 Version: 0.0.0.9000
 Authors@R: 
     person("Mohammad Shamim Hasan", "Mandal", , "mshmandal@gmail.com", role = c("aut", "cre"),
